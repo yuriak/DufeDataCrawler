@@ -30,4 +30,5 @@ public class WeiboEntityParser {
 		}
 		return weiboEntityBeans;
 	}
+	
 }

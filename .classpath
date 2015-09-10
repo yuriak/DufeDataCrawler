@@ -72,5 +72,10 @@
 	<classpathentry kind="lib" path="sorlLib/solr-solrj-4.10.0.jar"/>
 	<classpathentry kind="lib" path="sorlLib/wstx-asl-3.2.7.jar"/>
 	<classpathentry kind="lib" path="sorlLib/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/ansj_seg-2.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/libsvm.jar"/>
+	<classpathentry kind="lib" path="lib/nlp-lang-0.3.jar"/>
+	<classpathentry kind="lib" path="h2olib/h2o-java-rest-bindings-javadoc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
